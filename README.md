@@ -56,6 +56,7 @@
 - [N26](https://n26.com/) - A mobile bank offering free international transactions and fee-free withdrawals.
 - [Curve](https://www.curve.com/) - A smart card that combines all your bank cards into one, simplifying travel spending.
 - [XE Currency Converter](https://www.xe.com/currencyconverter/) - A currency conversion app for checking exchange rates in real-time.
+- [Your Tax Base](https://yourtaxbase.com/) - Florida residency and tax domicile services for digital nomads, with virtual mailbox, Declaration of Domicile filing, and step-by-step guidance for establishing a tax-free home base.
 
 ## Insurance
 
