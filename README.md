@@ -79,6 +79,7 @@
 - [Reddit: r/digitalnomad](https://www.reddit.com/r/digitalnomad/) - A subreddit for discussions and tips on the digital nomad lifestyle.
 - [Digital Nomad Slack Group](https://www.digitalnomads.com/slack/) - A Slack community for networking with other digital nomads.
 - [Facebook: Digital Nomads Around the World](https://www.facebook.com/groups/digitalnomadsaroundtheworld/) - A large Facebook group for digital nomads to connect and share resources.
+- [Freaking Nomads](https://freakingnomads.com/) - A curated platform and community directory featuring places, workspaces, events, and resources.
 - [Remote Year](https://www.remoteyear.com/) - A travel program that brings together remote workers for a year-long adventure across multiple countries.
 
 ## Learning Resources
