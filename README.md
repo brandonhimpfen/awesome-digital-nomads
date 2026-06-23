@@ -56,6 +56,7 @@
 - [N26](https://n26.com/) - A mobile bank offering free international transactions and fee-free withdrawals.
 - [Curve](https://www.curve.com/) - A smart card that combines all your bank cards into one, simplifying travel spending.
 - [XE Currency Converter](https://www.xe.com/currencyconverter/) - A currency conversion app for checking exchange rates in real-time.
+- [Radar Fiscal](https://radarfiscal.es) - A free calendar of Spanish autónomo tax deadlines (Modelo 303, 130, 111, and more) for nomads who go self-employed in Spain; Chrome and Firefox extension with deadline reminders.
 
 ## Insurance
 
