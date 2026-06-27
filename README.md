@@ -85,6 +85,7 @@
 
 - [The Remote Work Hub](https://www.remoteworkhub.com/) - A resource for finding remote jobs and learning about remote work best practices.
 - [Nomadic Matt's Travel Blog](https://www.nomadicmatt.com/) - Tips and advice for budget travel and digital nomadism.
+- [NordicExpat](https://nordicexpat.com/) - English-language relocation guides for Denmark, Sweden, Norway, and Finland, plus free tax/benefit calculators and a Copenhagen transit-zone tool.
 - [Digital Nomad Academy](https://digitalnomadacademy.com/) - Courses and resources for those looking to start a digital nomad lifestyle.
 - [Chris the Freelancer YouTube Channel](https://www.youtube.com/c/ChrisTheFreelancer) - Videos and guides on digital nomad destinations and tips.
 - [Skillshare](https://www.skillshare.com/) - Online classes on remote work skills, freelancing, and productivity.
