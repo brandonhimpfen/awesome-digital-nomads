@@ -48,6 +48,9 @@
 - [Selina](https://www.selina.com/) - A network of accommodations tailored for digital nomads, offering co-working spaces and community events.
 - [Nomad Stays](https://www.nomadstays.com/) - A platform offering accommodations designed for digital nomads with fast Wi-Fi and community support.
 - [Hacker Paradise](https://www.hackerparadise.org/) - A traveling co-working community that provides housing and workspace for digital nomads.
+- [Digital Nomad Visa Matcher](https://traveldiscoveryatlas.com/en/tools/visa-matcher) - Filter digital-nomad and residency visas by income, processing time, tax break and family. Free, no signup.
+- [Schengen 90/180 Day Counter](https://traveldiscoveryatlas.com/en/tools/schengen-counter) - Track days used and remaining under the Schengen 90/180 rule, with a shareable link. Free, no signup.
+
 
 ## Finance and Banking
 
