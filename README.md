@@ -73,6 +73,8 @@
 - [Georgia's Remotely from Georgia Program](https://stopcov.ge/en/RemotelyFromGeorgia) - A visa program for digital nomads wanting to work remotely from Georgia (the country).
 - [Bali Digital Nomad Visa](https://www.balilife.com/digital-nomad-visa/) - A new visa designed to attract digital nomads to Bali.
 
+- [Flagwise](https://flagwise.me) - Verified facts and community-reported reality on digital nomad visas, residency, banking, and company setup across 90+ countries.
+
 ## Communities and Networking
 
 - [Nomad List Community](https://nomadlist.com/community) - A forum for digital nomads to share tips and experiences.
