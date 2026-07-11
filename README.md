@@ -40,6 +40,7 @@
 - [Skyscanner](https://www.skyscanner.com/) - A flight search engine for finding the best travel deals.
 - [Airbnb](https://www.airbnb.com/) - Book unique stays and find monthly rentals for long-term travel.
 - [Booking.com](https://www.booking.com/) - A popular platform for booking hotels and accommodations.
+- [PuraSIM](https://purasim.com/en) - Prepaid travel eSIMs for mobile data abroad, with country, regional, and global plans.
 
 ## Accommodation
 
