@@ -40,6 +40,7 @@
 - [Skyscanner](https://www.skyscanner.com/) - A flight search engine for finding the best travel deals.
 - [Airbnb](https://www.airbnb.com/) - Book unique stays and find monthly rentals for long-term travel.
 - [Booking.com](https://www.booking.com/) - A popular platform for booking hotels and accommodations.
+- [Wander China Planner](https://ordinarymantrying.com/tools/wander-china/planner.html) - Free drag-and-drop itinerary builder for 31 Chinese cities — covers opening hours, metro routes, and budget estimates for digital nomads exploring China.
 
 ## Accommodation
 
