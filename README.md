@@ -72,6 +72,7 @@
 - [Croatia Digital Nomad Visa](https://www.digitalnomadcroatia.com/) - A one-year visa for digital nomads wanting to live in Croatia.
 - [Georgia's Remotely from Georgia Program](https://stopcov.ge/en/RemotelyFromGeorgia) - A visa program for digital nomads wanting to work remotely from Georgia (the country).
 - [Bali Digital Nomad Visa](https://www.balilife.com/digital-nomad-visa/) - A new visa designed to attract digital nomads to Bali.
+- [Malta Digital Nomad Guide](https://maltaexpat.com/remote-work/malta-digital-nomad-guide/) - Guide to Malta's Nomad Residence Permit by a resident, with rent data, tax and cost-of-living calculators.
 
 ## Communities and Networking
 
