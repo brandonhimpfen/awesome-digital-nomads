@@ -40,6 +40,7 @@
 - [Skyscanner](https://www.skyscanner.com/) - A flight search engine for finding the best travel deals.
 - [Airbnb](https://www.airbnb.com/) - Book unique stays and find monthly rentals for long-term travel.
 - [Booking.com](https://www.booking.com/) - A popular platform for booking hotels and accommodations.
+- [Travellagio](https://travellagio.com/) - Compares live flight prices across 44 destinations at once from your home airport, with visa requirements by passport and daily budget estimates -- useful for picking your next base rather than a fixed route.
 
 ## Accommodation
 
