@@ -26,6 +26,7 @@
 
 ## Work and Productivity
 
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser invoice, quote, rate, payment reminder, SOW, and proposal tools for freelancers working remotely (no signup).
 - [Slack](https://slack.com/) - A messaging app for teams, ideal for remote collaboration.
 - [Notion](https://www.notion.so/) - An all-in-one workspace for organizing tasks, projects, and notes.
 - [Trello](https://trello.com/) - A project management tool for organizing tasks visually with boards and cards.
