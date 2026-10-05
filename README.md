@@ -35,6 +35,7 @@
 
 ## Travel Tools
 
+- [Waitwise](https://masondaxton.github.io/waitwise/) - Free official-path prep for scarce passport and camping appointments (no scrapers).
 - [Google Maps](https://maps.google.com/) - An essential tool for navigation and finding places to work from.
 - [Rome2Rio](https://www.rome2rio.com/) - A trip planner that helps you figure out how to get anywhere using planes, trains, buses, and ferries.
 - [Skyscanner](https://www.skyscanner.com/) - A flight search engine for finding the best travel deals.
